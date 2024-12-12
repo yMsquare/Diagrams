@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="ETo6zAyv9eM8zPz0Tk6u">
-    <mxGraphModel dx="818" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2194" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-1" value="&lt;font&gt;Traps&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;" edge="1" parent="1" source="SmOO62gGQW3gwtHyzNJO-3" target="SmOO62gGQW3gwtHyzNJO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-3" value="&lt;span&gt;uservec&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="SmOO62gGQW3gwtHyzNJO-4" target="SmOO62gGQW3gwtHyzNJO-20">
           <mxGeometry relative="1" as="geometry" />
@@ -50,30 +50,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-20" value="（错误）&lt;div&gt;打印信息&lt;/div&gt;&lt;div&gt;标记进程为killed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="205" y="520" width="190" height="80" as="geometry" />
+          <mxGeometry x="205" y="500" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SmOO62gGQW3gwtHyzNJO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="SmOO62gGQW3gwtHyzNJO-22" target="SmOO62gGQW3gwtHyzNJO-5">
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SmOO62gGQW3gwtHyzNJO-22" target="SmOO62gGQW3gwtHyzNJO-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="710" />
-              <mxPoint x="270" y="710" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SmOO62gGQW3gwtHyzNJO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="SmOO62gGQW3gwtHyzNJO-22" target="SmOO62gGQW3gwtHyzNJO-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="110" y="665" />
+              <mxPoint x="-70" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;killed&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="SmOO62gGQW3gwtHyzNJO-31">
           <mxGeometry x="0.3461" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="-94" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-22" value="系统调用" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="50" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-25" value="exit" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="250" y="650" width="80" height="30" as="geometry" />
@@ -86,14 +78,43 @@
             <mxPoint x="3" y="55" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="SmOO62gGQW3gwtHyzNJO-34" target="SmOO62gGQW3gwtHyzNJO-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;killed&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="SmOO62gGQW3gwtHyzNJO-46">
+          <mxGeometry x="0.2863" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-34" value="设备中断" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-42" value="usertet (Trampoline.S&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="210" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmOO62gGQW3gwtHyzNJO-45" value="关中断，直到返回到用户空间再打开。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="350" y="950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-48" value="&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;DONE BY HARDWARE&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;1. Save PC to Register(SEPC)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;2. Save Mode Info (SStatus.SPP)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;font color=&quot;#b266ff&quot;&gt;3. DIsable Interrupts (SStatus.SIE)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;4. Set PC to Stvec (jump to uservec)&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="340" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-49" value="&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;1. Save Registers to TRAPFRAME&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;2. Load KERNEL sp, tp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;3. Switch to KERNEL pagetable (SATP)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;4. Jump to usertrap (and do not return)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.106;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="SmOO62gGQW3gwtHyzNJO-22" target="SmOO62gGQW3gwtHyzNJO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-51" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;font color=&quot;#b266ff&quot;&gt;1. Enabel Interrupts&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="480" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-52" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;font color=&quot;#990099&quot;&gt;1. Set (stvec) to Kernelvec&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-53" value="&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;font color=&quot;#b266ff&quot;&gt;1. Disable Interrupts&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;2. Set (stvec) to uservec&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;3. Save (kernel&#39;s) st, tp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;4.Restore (User&#39;s) PC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;5. Jump to Userret&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="310" y="780" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SmOO62gGQW3gwtHyzNJO-54" value="&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;1. Switch to User&#39;s pagetable (satp)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;2. Restore User&#39;s Registers&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;3. Set SStatus Registers&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;( SPP: wants to change to USER mode&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;SPIE: wants to Enable Interrupts&lt;/span&gt;&lt;span style=&quot;font-size: 19px; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;(which. was set by hardware when trap happend,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;and when sret, hardware will copy that to SIE)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;4. SRET (Back to Userspace)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="310" y="980" width="530" height="221" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
